@@ -1,3 +1,4 @@
+#test
 name: Build and Push Docker Image to ECR            # Workflow name as shown in GitHub Actions UI
 
 on:                                                 # Event(s) that trigger this workflow
